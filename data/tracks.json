@@ -1,0 +1,17 @@
+{
+"tracks": [
+    {"id": 1,
+  "title": "cancion 1",
+  "duracion": 120,
+  "artist": "inteprete 1" },
+  {"id": 1,
+  "title": "cancion 2",
+  "duracion": 130,
+  "artist": "inteprete 2" },
+  {"id": 1,
+  "title": "cancion 3",
+  "duracion": 160,
+  "artist": "inteprete 3" }
+]
+
+  }
